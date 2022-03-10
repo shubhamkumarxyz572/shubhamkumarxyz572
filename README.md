@@ -42,6 +42,4 @@ Here are some ideas to get you started:
     <img src="https://github-profile-trophy.vercel.app/?username=shubhamkumarxyz572&theme=gruvbox&column=7">
 </div>
   
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=shubhamkumarxyz572&show_icons=true&theme=react-dark">
-</div>
+
