@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m interested in problem solving and web development
+- 🌱 I’m currently learning more about Javascript and Backend.
+- 👯 I’m looking to collaborate on any project that'll help me to learn new things.
+- 💬 Ask me about anything about Data Structures & Algorithms
+- 📫 How to reach me: shubhamkumarxyz572@gmail.com
+- ⚡ Fact:Love problem solving and that's what CP is, right?
+
 ## :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Shubham_Kumar-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kumar-3590511a4/)
